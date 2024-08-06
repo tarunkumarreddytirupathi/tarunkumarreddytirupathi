@@ -2,6 +2,7 @@
 <br>    👋 Hi, I’m @tarunkumarreddytirupathi<br>    👀 I’m interested in open source<br>    🌱 I’m currently learning Java<br>    💞️ I'm willing to collaborate with early professionals and tech enthusiasts<br>    📫 How to reach me tarunkumarreddtirupathi@gmail.com<br>    😄 Pronouns: He/him<br>    ⚡ Fun fact: I am good at sleeping<br>
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tirupathi-tarun-kumar-reddy-8a8451314) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tarunkumarreddytirupathi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tarunkumarreedy) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26447656) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tarunkumarrz) 
 
